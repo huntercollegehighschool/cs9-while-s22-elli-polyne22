@@ -11,6 +11,6 @@ Hunter
 Hunter
 
 '''
-timestopprint = int(inpur("Times to print:"))
+timestopprint = int(input("Times to print:"))
 for i in range (timestopprint):
   print ("Hunter")
