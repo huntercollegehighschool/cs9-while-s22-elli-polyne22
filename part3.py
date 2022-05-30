@@ -20,7 +20,8 @@ totalnum = 0
 
 while num != 0:
   total = total + num
+  totalnum = totalnum + 1
   num = int(input("Enter a number or enter 0 to stop:"))
     
-output + total / totalnum
-print("Average:", total)
+output = total / totalnum
+print("Average:", output)
