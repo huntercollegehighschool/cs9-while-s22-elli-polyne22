@@ -12,5 +12,5 @@ Hunter
 
 '''
 timestopprint = int(inpur("Times to print:"))
-for I in range (timestopprint):
+for i in range (timestopprint):
   print ("Hunter")
